@@ -1,4 +1,4 @@
-# Viprofix
+# GhostRider
 BOT PROTECT CREATOR & ADMIN
 ------
 GET TOKEN :
