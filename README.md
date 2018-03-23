@@ -4,7 +4,6 @@ BOT PROTECT CREATOR & ADMIN
 GET TOKEN :
 ------
 - `Google Chrome`
-- `http://101.255.95.249:6969`
 -
 Cara Install Bot Ghost Rider :
 ------
@@ -19,9 +18,9 @@ Di C9 :
 - Ketik -> `sudo pip install bs4`
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
-- Ketik -> `cd vipro2`
-- Ketik -> `python vipro.py`
+- Ketik -> `git clone https://github.com/GhostRiderBot/AlinSelf`
+- Ketik -> `cd alin1self`
+- Ketik -> `python alin1self.py`
 
 Di Termux :
 - Ketik -> `pkg update`
@@ -34,7 +33,7 @@ Di Termux :
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install beautifulsoup`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
+- Ketik -> `git clone https://github.com/GhostRiderBot/AlinSelf`
 - Ketik -> `cd alin1self`
 - Ketik -> `python2 alin1self.py`
 
