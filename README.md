@@ -51,7 +51,7 @@ Di Termux :
 
 Credit By@ Alin.
 ------
-- `Add My ID LINE : jabangtutuka`
+- `Add My ID LINE : tubagus21`
 
 Thx To :
 ------
