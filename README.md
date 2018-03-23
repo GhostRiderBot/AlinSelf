@@ -6,7 +6,7 @@ GET TOKEN :
 - `Google Chrome`
 - `http://101.255.95.249:6969`
 -
-Cara Install Bot Vipro :
+Cara Install Bot Ghost Rider :
 ------
 Di C9 :
 - Ketik -> `sudo apt-get update`
@@ -35,23 +35,23 @@ Di Termux :
 - Ketik -> `pip2 install beautifulsoup`
 - Ketik -> `pip2 install googletrans`
 - Ketik -> `git clone https://github.com/Gendjex/vipro2`
-- Ketik -> `cd vipro2`
-- Ketik -> `python2 vipro.py`
+- Ketik -> `cd alin1self`
+- Ketik -> `python2 alin1self.py`
 
 Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
-- Ketik -> `cd vipro2`
-- Ketik -> `python vipro.py`
+- Ketik -> `cd alin1self`
+- Ketik -> `python alin1self.py`
 
 Di Termux :
-- Ketik -> `cd vipro2`
-- Ketik -> `python2 vipro.py`
+- Ketik -> `cd alin1self`
+- Ketik -> `python2 alin1self.py`
 
 
-Credit By@ Vipro.
+Credit By@ Alin.
 ------
-- `Add My ID LINE : gjxvipro`
+- `Add My ID LINE : jabangtutuka`
 
 Thx To :
 ------
